@@ -1,0 +1,23 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-background-geolocation-lt": {
+            "LICENSE": "YOUR_LICENSE_KEY",
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-background-fetch": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        }
+    }
+}
